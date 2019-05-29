@@ -34,7 +34,7 @@ Converter for PS2 keyboard based on Arduino Leonardo or Micro with MEGA32U4
 </tr>
 <tr>
  <td>Power</td>
- <td>-5V</td>
+ <td>+5V</td>
  <td>4</td>
 </tr>
 </table>
